@@ -10,3 +10,6 @@
 	path = meta-xilinx
 	url = https://github.com/balister/meta-xilinx.git
 	branch = master-minized
+[submodule "meta-n3z"]
+	path = meta-n3z
+	url = https://github.com/balister/meta-n3z.git
