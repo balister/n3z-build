@@ -1,0 +1,12 @@
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
+	branch = master
+[submodule "bitbake"]
+	path = bitbake
+	url = https://github.com/openembedded/bitbake.git
+	branch = master
+[submodule "meta-xilinx"]
+	path = meta-xilinx
+	url = https://github.com/balister/meta-xilinx.git
+	branch = master-minized
